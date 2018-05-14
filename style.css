@@ -268,13 +268,16 @@ body.shop #shopHeader nav ul li{
 body.shop #shopHeader nav ul li:hover {
     border-bottom: solid 2px #000000;
     height: 38px;
-    text-decoration: none;
 }
 
 body.shop #shopHeader nav ul li a{
     display: block;
     padding: 10px;
     color: #333;
+}
+
+body.shop #shopHeader nav ul li a:hover{
+    text-decoration: none;
 }
 
 /* footer */
