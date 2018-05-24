@@ -1160,3 +1160,12 @@ body.template .etc-menu span{
     -o-transition-duration: 0.3s;
     transition-duration: 0.3s;
 }
+
+.sideL {
+    float: left;
+    width: 240px;
+}
+.mainR {
+    float: right;
+    width: 720px;
+}
