@@ -1161,11 +1161,11 @@ body.template .etc-menu span{
     transition-duration: 0.3s;
 }
 
-.sideL {
+#mainContent .sideL {
     float: left;
-    width: 240px;
+    width: 210px;
 }
-.mainR {
+#mainContent .mainR {
     float: right;
-    width: 720px;
+    width: 730px;
 }
